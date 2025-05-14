@@ -1,0 +1,40 @@
+02/02/2025 19:18:33	DalTest.Program.Main:	start Initialization
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:33	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:33	Dal.SaleImplementation.Create:	 start create sale
+02/02/2025 19:18:33	Dal.SaleImplementation.Create:	 end create sale
+02/02/2025 19:18:33	Dal.SaleImplementation.Create:	 start create sale
+02/02/2025 19:18:33	Dal.SaleImplementation.Create:	 end create sale
+02/02/2025 19:18:41	DalTest.Program.Main:	start Initialization
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:18:41	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:18:41	Dal.SaleImplementation.Create:	 start create sale
+02/02/2025 19:18:41	Dal.SaleImplementation.Create:	 end create sale
+02/02/2025 19:18:41	Dal.SaleImplementation.Create:	 start create sale
+02/02/2025 19:18:41	Dal.SaleImplementation.Create:	 end create sale
+02/02/2025 19:19:00	DalTest.Program.Main:	start Initialization
+02/02/2025 19:19:00	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:19:00	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:19:01	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:19:01	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:19:01	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:19:01	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:19:01	Dal.CustomerImplementation.Create:	start create customer
+02/02/2025 19:19:01	Dal.CustomerImplementation.Create:	end create customer
+02/02/2025 19:19:01	Dal.SaleImplementation.Create:	 start create sale
+02/02/2025 19:19:01	Dal.SaleImplementation.Create:	 end create sale
+02/02/2025 19:19:01	Dal.SaleImplementation.Create:	 start create sale
+02/02/2025 19:19:01	Dal.SaleImplementation.Create:	 end create sale
+02/02/2025 19:19:20	Dal.ProductImplementation.ReadAll:	 readAll with filter Product

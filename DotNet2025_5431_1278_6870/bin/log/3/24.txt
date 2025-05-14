@@ -1,0 +1,15 @@
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	start create customer
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	end create customer
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	start create customer
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	end create customer
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	start create customer
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	end create customer
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	start create customer
+24/03/2025 12:17:17	Dal.CustomerImplementation.Create:	end create customer
+24/03/2025 12:17:17	Dal.SaleImplementation.Create:	 start create sale
+24/03/2025 12:17:17	Dal.SaleImplementation.Create:	 end create sale
+24/03/2025 12:17:17	Dal.SaleImplementation.Create:	 start create sale
+24/03/2025 12:17:17	Dal.SaleImplementation.Create:	 end create sale
+24/03/2025 12:17:32	Dal.ProductImplementation.Read:	start read Product
+24/03/2025 12:17:32	Dal.SaleImplementation.ReadAll:	read all with filter sale
+24/03/2025 12:17:32	Dal.SaleImplementation.ReadAll:	read all with filter sale

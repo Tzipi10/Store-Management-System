@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale>
+	<Sales>
+		<Sale>
+			<Id>100</Id>
+			<ProductId>100</ProductId>
+			<Quantity>4</Quantity>
+			<Price>4.9</Price>
+			<IsPaid>false</IsPaid>
+			<Date>
+				<Start>2025-03-24T00:00:00</Start>
+				<End>9999-12-31T23:59:59</End>
+			</Date>
+		</Sale>
+		<Sale>
+			<Id>101</Id>
+			<ProductId>103</ProductId>
+			<Quantity>6</Quantity>
+			<Price>2</Price>
+			<IsPaid>true</IsPaid>
+			<Date>
+				<Start>2025-03-24</Start>
+				<End>1970-01-01</End>
+			</Date>
+		</Sale>
+		<Sale>
+			<Id>102</Id>
+			<ProductId>110</ProductId>
+			<Quantity>2</Quantity>
+			<Price>19.9</Price>
+			<IsPaid>true</IsPaid>
+			<Date>
+				<Start>2025-03-23</Start>
+				<End>2025-03-24</End>
+			</Date>
+		</Sale>
+	</Sales>
+</ArrayOfSale>

@@ -1,0 +1,16 @@
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\bin\BlTest.exe
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\bin\BlTest.deps.json
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\bin\BlTest.runtimeconfig.json
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\bin\BlTest.dll
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\bin\BlTest.pdb
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.dll
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.pdb
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\ref\BlTest.dll

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>6586</Id>
+    <Name>שלומי</Name>
+    <Address>שלמה המלך 2</Address>
+    <PhoneNumber>089791599</PhoneNumber>
+  </Customer>
+</ArrayOfCustomer>

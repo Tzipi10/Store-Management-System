@@ -1,0 +1,14 @@
+03/03/2025 18:18:10	DalTest.Program.Main:	start Initialization
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	start create customer
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	end create customer
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	start create customer
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	end create customer
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	start create customer
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	end create customer
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	start create customer
+03/03/2025 18:18:10	Dal.CustomerImplementation.Create:	end create customer
+03/03/2025 18:18:11	Dal.SaleImplementation.Create:	 start create sale
+03/03/2025 18:18:11	Dal.SaleImplementation.Create:	 end create sale
+03/03/2025 18:18:11	Dal.SaleImplementation.Create:	 start create sale
+03/03/2025 18:18:11	Dal.SaleImplementation.Create:	 end create sale
+03/03/2025 18:18:17	Dal.ProductImplementation.ReadAll:	 readAll with filter Product

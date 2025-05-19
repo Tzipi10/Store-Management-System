@@ -37,3 +37,17 @@ Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalList\obj\Debu
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalList\obj\Debug\refint\DalList.dll
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.pdb
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalList\obj\Debug\ref\DalList.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalList.deps.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalList.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalList.pdb
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\refint\DalList.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\DalList.pdb
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalList\obj\Debug\ref\DalList.dll

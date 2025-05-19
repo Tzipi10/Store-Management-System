@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\B\\\u05DC\u05D5\u05D9 \u05E6\u05D9\u05E4\u05D5\u05E8\u05D4\\C#\\myProject\\DotNet2025_5431_1278_6870\\",
+  "WorkspaceRootPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51FBD783-F22D-41AD-9E25-80B0CDD25257}|DalXml\\DalXml.csproj|z:\\b\\\u05DC\u05D5\u05D9 \u05E6\u05D9\u05E4\u05D5\u05E8\u05D4\\c#\\myproject\\dotnet2025_5431_1278_6870\\dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FBD783-F22D-41AD-9E25-80B0CDD25257}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FD6C5EB-BBB3-4833-84F1-BA5DFBC667DF}|BL\\BL.csproj|c:\\users\\tzipi\\documents\\github\\store-management-system\\dotnet2025_5431_1278_6870\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FD6C5EB-BBB3-4833-84F1-BA5DFBC667DF}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD6C5EB-BBB3-4833-84F1-BA5DFBC667DF}|BL\\BL.csproj|c:\\users\\tzipi\\documents\\github\\store-management-system\\dotnet2025_5431_1278_6870\\bl\\bl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9FD6C5EB-BBB3-4833-84F1-BA5DFBC667DF}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SaleImplementation.cs",
-              "DocumentMoniker": "Z:\\B\\\u05DC\u05D5\u05D9 \u05E6\u05D9\u05E4\u05D5\u05E8\u05D4\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\SaleImplementation.cs",
-              "RelativeDocumentMoniker": "DalXml\\SaleImplementation.cs",
-              "ToolTip": "Z:\\B\\\u05DC\u05D5\u05D9 \u05E6\u05D9\u05E4\u05D5\u05E8\u05D4\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\SaleImplementation.cs",
-              "RelativeToolTip": "DalXml\\SaleImplementation.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:55:37.68Z",
+              "Title": "BL",
+              "DocumentMoniker": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T16:09:00.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BL",
+              "DocumentMoniker": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T16:10:18.896Z",
               "EditorCaption": ""
             }
           ]

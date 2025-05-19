@@ -82,23 +82,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\huser\\.nuget\\packages\\": {},
+    "C:\\Users\\Tzipi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj",
+      "projectUniqueName": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj",
       "projectName": "DalTest",
-      "projectPath": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj",
-      "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalTest\\obj\\",
+      "projectPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj",
+      "packagesPath": "C:\\Users\\Tzipi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\huser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tzipi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -114,14 +114,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj"
+            "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj"
             },
-            "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalList\\DalList.csproj": {
-              "projectPath": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalList\\DalList.csproj"
+            "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalList\\DalList.csproj"
             },
-            "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj": {
-              "projectPath": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj"
+            "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj"
             }
           }
         }
@@ -134,7 +134,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -157,7 +157,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

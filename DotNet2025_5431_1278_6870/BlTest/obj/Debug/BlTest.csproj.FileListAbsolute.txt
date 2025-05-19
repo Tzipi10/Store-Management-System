@@ -14,3 +14,20 @@ Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.pdb
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\BlTest\obj\Debug\ref\BlTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.exe
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.deps.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.runtimeconfig.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.pdb
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.sourcelink.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.Up2Date
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.pdb
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\ref\BlTest.dll

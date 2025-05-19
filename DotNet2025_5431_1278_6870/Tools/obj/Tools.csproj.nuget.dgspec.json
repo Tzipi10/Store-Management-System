@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {}
+    "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {}
   },
   "projects": {
-    "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {
+    "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\לוי ציפורה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\obj\\",
+        "projectPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\Tzipi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\huser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tzipi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

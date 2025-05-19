@@ -1,0 +1,12 @@
+19/05/2025 17:56:09	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 18:04:06	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 18:04:22	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 18:07:57	Dal.CustomerImplementation.Create:	start create customer
+19/05/2025 18:07:58	Dal.CustomerImplementation.Create:	end create customer
+19/05/2025 18:07:58	Dal.CustomerImplementation.Create:	start create customer
+19/05/2025 18:07:58	Dal.CustomerImplementation.Create:	end create customer
+19/05/2025 18:07:58	Dal.CustomerImplementation.Create:	start create customer
+19/05/2025 18:07:58	Dal.CustomerImplementation.Create:	end create customer
+19/05/2025 18:07:58	Dal.CustomerImplementation.Create:	start create customer
+19/05/2025 18:07:58	Dal.CustomerImplementation.Create:	end create customer
+19/05/2025 18:07:58	Dal.ProductImplementation.Create:	Start Create Product

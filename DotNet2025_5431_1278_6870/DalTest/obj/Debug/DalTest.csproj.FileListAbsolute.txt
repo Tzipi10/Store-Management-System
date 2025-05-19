@@ -46,3 +46,20 @@ Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalTest\obj\Debu
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.pdb
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 Z:\B\לוי ציפורה\C#\myProject\DotNet2025_5431_1278_6870\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalTest.exe
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalTest.deps.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalTest.runtimeconfig.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalTest.pdb
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.pdb
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalTest\obj\Debug\ref\DalTest.dll

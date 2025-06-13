@@ -77,6 +77,8 @@ namespace BlImplementation
         {
             try
             {
+                if(filter==null)
+                    return _dal.Customer.ReadAll().Select(s => s?.ConvertDoToBo()).ToList();
                 return _dal.Customer.ReadAll(doCustomer => filter!(doCustomer.ConvertDoToBo())).Select(s => s?.ConvertDoToBo()).ToList();
             }
             catch (Exception ex)

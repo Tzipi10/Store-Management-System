@@ -21,3 +21,63 @@ C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_687
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\refint\Tools.dll
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.pdb
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\ref\Tools.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.deps.json
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.pdb
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.sourcelink.json
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\refint\Tools.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.pdb
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\ref\Tools.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.deps.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.sourcelink.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\refint\Tools.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\ref\Tools.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.deps.json
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.pdb
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.sourcelink.json
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\refint\Tools.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.pdb
+D:\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\ref\Tools.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.deps.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.sourcelink.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\refint\Tools.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\ref\Tools.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.deps.json
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\Tools.pdb
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.sourcelink.json
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\refint\Tools.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.pdb
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\Tools\obj\Debug\ref\Tools.dll

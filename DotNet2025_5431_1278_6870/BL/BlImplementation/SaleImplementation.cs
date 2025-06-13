@@ -59,6 +59,8 @@ namespace BlImplementation
         {
             try
             {
+                if(filter==null)
+                    return _dal.Sale.ReadAll().Select(s => s?.ConvertDoToBo()).ToList();
                 return _dal.Sale.ReadAll(s => filter!(s.ConvertDoToBo())).Select(s => s?.ConvertDoToBo()).ToList();
             }
             catch (Exception e)

@@ -1,10 +1,283 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <ProductCode>0</ProductCode>
+    <ProductCode>104</ProductCode>
+    <ProductName>ג'לי תות</ProductName>
+    <Price>10.8</Price>
+    <Quantity>40</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>105</ProductCode>
+    <ProductName>ג'לי לב</ProductName>
+    <Price>12.8</Price>
+    <Quantity>64</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>106</ProductCode>
+    <ProductName>קבוקים</ProductName>
+    <Price>8.9</Price>
+    <Quantity>60</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>107</ProductCode>
+    <ProductName>מענצ'ס</ProductName>
+    <Price>11.9</Price>
+    <Quantity>78</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>108</ProductCode>
+    <ProductName>יין קברנה</ProductName>
+    <Price>55.9</Price>
+    <Quantity>500</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>109</ProductCode>
+    <ProductName>יין לבן</ProductName>
+    <Price>29.9</Price>
+    <Quantity>100</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>110</ProductCode>
+    <ProductName>קרקרים חיטה מלאה</ProductName>
+    <Price>15.5</Price>
+    <Quantity>200</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>111</ProductCode>
+    <ProductName>קרקרים שומשום</ProductName>
+    <Price>16</Price>
+    <Quantity>180</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>112</ProductCode>
+    <ProductName>מרשמלו</ProductName>
+    <Price>9.9</Price>
+    <Quantity>220</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>113</ProductCode>
+    <ProductName>טרופי קסיל אורגני</ProductName>
+    <Price>7.5</Price>
+    <Quantity>150</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>114</ProductCode>
+    <ProductName>דרק שוקולד מריר</ProductName>
+    <Price>19.9</Price>
+    <Quantity>120</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>115</ProductCode>
+    <ProductName>גלי קולה</ProductName>
+    <Price>10.5</Price>
+    <Quantity>90</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>116</ProductCode>
+    <ProductName>שוקולד אגוזים</ProductName>
+    <Price>13.3</Price>
+    <Quantity>140</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>117</ProductCode>
+    <ProductName>יין אדום</ProductName>
+    <Price>48</Price>
+    <Quantity>80</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>118</ProductCode>
+    <ProductName>קרקרים קל</ProductName>
+    <Price>17.9</Price>
+    <Quantity>75</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>119</ProductCode>
+    <ProductName>בראוניס</ProductName>
+    <Price>6.7</Price>
+    <Quantity>95</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>113</ProductCode>
+    <ProductName>ג'לי דובונים</ProductName>
+    <Price>13.5</Price>
+    <Quantity>90</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>114</ProductCode>
+    <ProductName>טופי פירות</ProductName>
+    <Price>7.5</Price>
+    <Quantity>150</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>115</ProductCode>
+    <ProductName>שוקולד חלב</ProductName>
+    <Price>10.9</Price>
+    <Quantity>300</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>116</ProductCode>
+    <ProductName>שוקולד מריר</ProductName>
+    <Price>12</Price>
+    <Quantity>280</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>117</ProductCode>
+    <ProductName>שוקולד עם שקדים</ProductName>
+    <Price>13.5</Price>
+    <Quantity>260</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>118</ProductCode>
+    <ProductName>פופקורן בטעם חמאה</ProductName>
+    <Price>6.5</Price>
+    <Quantity>340</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>119</ProductCode>
+    <ProductName>צ'יפס קלאסי</ProductName>
+    <Price>4.8</Price>
+    <Quantity>320</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>120</ProductCode>
+    <ProductName>פתי בר</ProductName>
+    <Price>7.2</Price>
+    <Quantity>210</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>121</ProductCode>
+    <ProductName>לחמית כוסמין</ProductName>
+    <Price>9.5</Price>
+    <Quantity>180</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>122</ProductCode>
+    <ProductName>קרקר חומוס</ProductName>
+    <Price>10</Price>
+    <Quantity>160</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>123</ProductCode>
+    <ProductName>יין אדום יבש</ProductName>
+    <Price>45</Price>
+    <Quantity>120</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>124</ProductCode>
+    <ProductName>יין מוסקט</ProductName>
+    <Price>39.9</Price>
+    <Quantity>130</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>125</ProductCode>
+    <ProductName>יין תירוש</ProductName>
+    <Price>19.9</Price>
+    <Quantity>150</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>126</ProductCode>
+    <ProductName>מרשמלו שוקולד</ProductName>
+    <Price>11</Price>
+    <Quantity>100</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>127</ProductCode>
+    <ProductName>סוכריות קשות בטעם מנטה</ProductName>
+    <Price>5.5</Price>
+    <Quantity>400</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>128</ProductCode>
+    <ProductName>שוקולד טראפלס</ProductName>
+    <Price>18</Price>
+    <Quantity>220</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>129</ProductCode>
+    <ProductName>דובונים מלוחים</ProductName>
+    <Price>6.9</Price>
+    <Quantity>310</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>130</ProductCode>
+    <ProductName>טורטיות תירס</ProductName>
+    <Price>7.8</Price>
+    <Quantity>290</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>131</ProductCode>
+    <ProductName>יין רוזה</ProductName>
+    <Price>42.5</Price>
+    <Quantity>110</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>132</ProductCode>
+    <ProductName>קרקרים פריכים</ProductName>
+    <Price>14.5</Price>
+    <Quantity>170</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>100</ProductCode>
     <ProductName>ביסלי</ProductName>
-    <Price>5.9</Price>
+    <Price>5</Price>
     <Quantity>500</Quantity>
     <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>102</ProductCode>
+    <ProductName>שוקולד שוויצרי</ProductName>
+    <Price>14</Price>
+    <Quantity>400</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>103</ProductCode>
+    <ProductName>שוקולד במילוי קרם אגוזים</ProductName>
+    <Price>14.9</Price>
+    <Quantity>245</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>136</ProductCode>
+    <ProductName>שוקולד</ProductName>
+    <Price>6</Price>
+    <Quantity>3</Quantity>
+    <Category>CHOCOLATES</Category>
   </Product>
 </ArrayOfProduct>

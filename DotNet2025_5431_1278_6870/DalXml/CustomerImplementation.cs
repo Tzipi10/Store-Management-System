@@ -22,7 +22,7 @@ namespace Dal
                 LogManager.writeToLog(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, MethodBase.GetCurrentMethod().Name, "start create customer");
                 if (File.Exists(file_path))
                 {
-                    List<Customer> customers = new List<Customer>();
+                    List<Customer> customers = Config.LoadFromXml<Customer>(file_path);
                     if (customers.Any(c => c?.Id == item.Id))
                     {
                         throw new DalIdAlreadyExistsException("Create - ERROR: customer Id already exists");
@@ -53,6 +53,7 @@ namespace Dal
                     Config.SaveToXml(file_path, customers);
                     LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "End Delete Customer");
                 }
+                else
                 throw new DalIdDosentExistException("this file doesnt exist!");
             }
             catch (Exception ex)
@@ -122,7 +123,7 @@ namespace Dal
                 Delete(item.Id);
                 List<Customer> customers = Config.LoadFromXml<Customer>(file_path);
                 customers.Add(item);
-                Config.SaveToXml<Customer>("../../xml/sales.xml", customers);
+                Config.SaveToXml<Customer>(file_path, customers);
                 LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "end update customer");
 
             }

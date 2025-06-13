@@ -20,7 +20,7 @@ namespace DalApi
                 catch (Exception ex) { throw new DalConfigException($"Failed to load {dal}.dll package", ex); }
 
                 Type type = Type.GetType($"Dal.{dal}, {dal}") ??
-                    //throw new DalConfigException($"Class Dal.{dal} was not found in {dal.Package}.dll");
+                      //throw new DalConfigException($"Class Dal.{dal} was not found in {dal.Package}.dll");
                       throw new DalConfigException($"Class Dal.{dal} was not found in Package.dll");
 
                 return type.GetProperty("Instance", BindingFlags.Public | BindingFlags.Static)?.GetValue(null) as IDal ??

@@ -9,13 +9,13 @@ namespace BO
     public class Order
     {
         public CustomerPreference Preference { get; set; }
-        public LinkedList<ProductInOrder> ProductsInOrder { get; set; }
+        public List<ProductInOrder> ProductsInOrder { get; set; }
         public double TotalPrice { get; set; }
 
         public Order(CustomerPreference Preference)
         {
             this.Preference = Preference;
-            this.ProductsInOrder =new LinkedList<ProductInOrder>();
+            this.ProductsInOrder =new List<ProductInOrder>();
             this.TotalPrice = 0;
         }
     }

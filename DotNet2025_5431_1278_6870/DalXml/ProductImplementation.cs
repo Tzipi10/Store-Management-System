@@ -15,20 +15,23 @@ namespace Dal
 
     internal class ProductImplementation : IProduct
     {
-        static string file_path = "../xml/Products.xml";
+        static string file_path = "../xml/products.xml";
 
         public int Create(Product item)
         {
-            try {
+            try
+            {
                 LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "Start Create Product");
 
                 List<Product> products = new List<Product>();
                 if (File.Exists(file_path))
                 {
                     products = Config.LoadFromXml<Product>(file_path);
+                    item = item with { ProductCode = Config.NextProductCode };
+
                     bool Product = products.Any(c => c?.ProductCode == item.ProductCode);
 
-                    if (Product)
+                    if (Product == null)
                     {
                         throw new DalIdAlreadyExistsException("Create - ERROR: Product Id already exists");
                     }
@@ -59,7 +62,8 @@ namespace Dal
                     Config.SaveToXml(file_path, products);
                     LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "end delete Product");
                 }
-                throw new DalIdDosentExistException("this file doesnt exist!");
+                else
+                    throw new DalIdDosentExistException("this file doesnt exist!");
             }
             catch (Exception ex)
             {
@@ -75,7 +79,7 @@ namespace Dal
                 List<Product> products = new List<Product>();
                 if (File.Exists(file_path))
                 {
-                    products =  Config.LoadFromXml<Product>(file_path);
+                    products = Config.LoadFromXml<Product>(file_path);
                     Product findProduct = products.Single(c => c?.ProductCode == id);
                     if (findProduct != null)
                     {
@@ -96,7 +100,7 @@ namespace Dal
             try
             {
                 LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " read with filter - product");
-                List<Product> products  = Config.LoadFromXml<Product>(file_path);
+                List<Product> products = Config.LoadFromXml<Product>(file_path);
                 return products.First(filter);
             }
             catch (Exception ex)
@@ -111,9 +115,9 @@ namespace Dal
             {
                 LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " readAll with filter Product");
                 List<Product> products = Config.LoadFromXml<Product>(file_path);
-                    if (filter == null)
-                        return products;
-                    return products.Where(filter).ToList();
+                if (filter == null)
+                    return products;
+                return products.Where(filter).ToList();
             }
             catch (Exception ex)
             {
@@ -129,12 +133,12 @@ namespace Dal
                 Delete(item.ProductCode);
                 List<Product> products = Config.LoadFromXml<Product>(file_path);
                 products.Add(item);
-                Config.SaveToXml<Product>("../../xml/sales.xml", products); 
+                Config.SaveToXml<Product>(file_path, products);
                 LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " end update Product");
             }
-            catch (Exception ex) 
+            catch (Exception ex)
             {
-                throw ex; 
+                throw ex;
             }
         }
     }

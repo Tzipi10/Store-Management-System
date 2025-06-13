@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\c#\\\u05D7\u05D3\u05E9!!!\\Store-Management-System\\DotNet2025_5431_1278_6870\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5C846D-7EA2-4867-AE3D-DD7778E0B143}|UI\\UI.csproj|d:\\c#\\\u05D7\u05D3\u05E9!!!\\store-management-system\\dotnet2025_5431_1278_6870\\ui\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5C846D-7EA2-4867-AE3D-DD7778E0B143}|UI\\UI.csproj|solutionrelative:ui\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "D:\\c#\\\u05D7\u05D3\u05E9!!!\\Store-Management-System\\DotNet2025_5431_1278_6870\\UI\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "UI\\OrderProduct.cs",
+              "ToolTip": "D:\\c#\\\u05D7\u05D3\u05E9!!!\\Store-Management-System\\DotNet2025_5431_1278_6870\\UI\\OrderProduct.cs",
+              "RelativeToolTip": "UI\\OrderProduct.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowBsAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:47:09.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

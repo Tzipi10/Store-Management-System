@@ -30,7 +30,7 @@ namespace BO
 
         public override string ToString()
         {
-            return "productId: " + ProductId + " ProductName: " + ProductName + " Price: " + Price + " Quantity: " + Quantity + " FinalPrice: " + FinalPrice + " sales: " + Sales;
+            return "productId: " + ProductId + " ProductName: " + ProductName + " Price: " + Price + " Quantity: " + Quantity + " FinalPrice: " + FinalPrice + " sales: " + Sales.ToString();
         }
     }
 }

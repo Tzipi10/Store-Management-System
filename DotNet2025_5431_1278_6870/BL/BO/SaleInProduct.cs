@@ -15,12 +15,12 @@
             this.Preference = Preference;
         }
 
-        public override string ToString() => this.ToStringProperty();
+        //public override string ToString() => this.ToStringProperty();
 
-        //public override string ToString()
-        //{
-        //    return "SaleId: " + SaleId + " Quantity: " + Quantity + " Price: " + Price + " Preference: " + Preference;
-        //}
+        public override string ToString()
+        {
+            return "SaleId: " + SaleId + " Quantity: " + Quantity + " Price: " + Price + " Preference: " + Preference;
+        }
     }
 
 

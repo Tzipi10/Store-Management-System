@@ -25,3 +25,73 @@ C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_687
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.deps.json
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.pdb
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.sourcelink.json
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.deps.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.sourcelink.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.deps.json
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.pdb
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.sourcelink.json
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
+D:\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.deps.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.sourcelink.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.deps.json
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.pdb
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.sourcelink.json
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll

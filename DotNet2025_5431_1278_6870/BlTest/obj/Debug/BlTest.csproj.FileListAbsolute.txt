@@ -31,3 +31,54 @@ C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_687
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.pdb
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
 C:\Users\Tzipi\Documents\GitHub\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\ref\BlTest.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.exe
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.deps.json
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.runtimeconfig.json
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.pdb
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.sourcelink.json
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.Up2Date
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\refint\BlTest.dll
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.pdb
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+D:\c#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\ref\BlTest.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.exe
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.deps.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.runtimeconfig.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.sourcelink.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\ref\BlTest.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.exe
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.deps.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.runtimeconfig.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\BlTest.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.sourcelink.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.csproj.Up2Date
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\refint\BlTest.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\BlTest\obj\Debug\ref\BlTest.dll

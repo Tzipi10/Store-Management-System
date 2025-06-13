@@ -35,10 +35,6 @@ internal class Test
                 int.TryParse(Console.ReadLine(), out countToOrder);
                 sales=s_bl.Order.AddProductToOrder(order, productId, countToOrder);
                 Console.WriteLine("list sales: "+string.Join(' ',sales));
-                //foreach (SaleInProduct sale in sales)
-                //{
-                //    Console.WriteLine(sale.ToStringProperty());
-                //}
                 Console.WriteLine("Total price:"+order.TotalPrice);
                 Console.WriteLine("To end the order, press 0!");
             }

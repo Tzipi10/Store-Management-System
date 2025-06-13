@@ -1,9 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Customer>
-    <Id>6586</Id>
-    <Name>שלומי</Name>
-    <Address>שלמה המלך 2</Address>
-    <PhoneNumber>089791599</PhoneNumber>
+    <Id>234</Id>
+    <Name>דוד ישראלי</Name>
+    <Address>ירושלים</Address>
+    <PhoneNumber>0541112233</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>139</Id>
+    <Name>יוסי כהן</Name>
+    <Address>תל ציון</Address>
+    <PhoneNumber>0541234567</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>305</Id>
+    <Name>שרה ויינשטוק</Name>
+    <Address>בני ברק</Address>
+    <PhoneNumber>0502223344</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>306</Id>
+    <Name>חיים פוגל</Name>
+    <Address>מודיעין עילית</Address>
+    <PhoneNumber>0524455667</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>307</Id>
+    <Name>ציפי רוט</Name>
+    <Address>אלעד</Address>
+    <PhoneNumber>0536677889</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>308</Id>
+    <Name>שמואל הרשקוביץ</Name>
+    <Address>ירושלים - מאה שערים</Address>
+    <PhoneNumber>0549988776</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>309</Id>
+    <Name>מלכה בלוי</Name>
+    <Address>קרית ספר</Address>
+    <PhoneNumber>0507766554</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>310</Id>
+    <Name>אליהו קופלמן</Name>
+    <Address>מודיעין עילית - קמניץ</Address>
+    <PhoneNumber>0523331122</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>311</Id>
+    <Name>יונתן רביץ</Name>
+    <Address>בני ברק - רחוב חזון איש</Address>
+    <PhoneNumber>0503217890</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>312</Id>
+    <Name>חיה ברנשטיין</Name>
+    <Address>אלעד - אזור התעשייה</Address>
+    <PhoneNumber>0544433212</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>313</Id>
+    <Name>אהרן שטיין</Name>
+    <Address>ירושלים - גבעת שאול</Address>
+    <PhoneNumber>0531114567</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>314</Id>
+    <Name>פנינה שניידר</Name>
+    <Address>תל ציון - נופי ציון</Address>
+    <PhoneNumber>0527894561</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>315</Id>
+    <Name>יצחק ליפשיץ</Name>
+    <Address>בית שמש</Address>
+    <PhoneNumber>0503332244</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>316</Id>
+    <Name>מרים קליין</Name>
+    <Address>מודיעין עילית - רחוב רשב"י</Address>
+    <PhoneNumber>0532223344</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>317</Id>
+    <Name>שלמה הלברשטאם</Name>
+    <Address>ירושלים - סנהדריה</Address>
+    <PhoneNumber>0545678923</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>318</Id>
+    <Name>רבקה בראון</Name>
+    <Address>בני ברק - הרב שך</Address>
+    <PhoneNumber>0509876543</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>319</Id>
+    <Name>משה בוימל</Name>
+    <Address>אלעד - הרב אוירבך</Address>
+    <PhoneNumber>0528765432</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>320</Id>
+    <Name>איילה קסטנבוים</Name>
+    <Address>ביתר עילית</Address>
+    <PhoneNumber>0536543210</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>321</Id>
+    <Name>נחמן כהנמן</Name>
+    <Address>בני ברק - חזון איש</Address>
+    <PhoneNumber>0542109876</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>322</Id>
+    <Name>מלכי פישר</Name>
+    <Address>מודיעין עילית - בן איש חי</Address>
+    <PhoneNumber>0501122334</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>323</Id>
+    <Name>אלעזר דייטש</Name>
+    <Address>קרית ספר - קרן היסוד</Address>
+    <PhoneNumber>0524455123</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>324</Id>
+    <Name>שושנה הרשקוביץ</Name>
+    <Address>תל אביב - נווה צדק</Address>
+    <PhoneNumber>0539988777</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>325</Id>
+    <Name>אפרים שיינברגר</Name>
+    <Address>ירושלים - רמות</Address>
+    <PhoneNumber>0544566778</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>327931523</Id>
+    <Name>תמי פל</Name>
+    <Address>נתיבות המשפט 70</Address>
+    <PhoneNumber>0534193385</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>327822441</Id>
+    <Name>יהודית יעקבזון</Name>
+    <Address>מרומי שדה 7</Address>
+    <PhoneNumber>0527190705</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>7867</Id>
+    <Name>ישראל קליין</Name>
+    <Address>ביתר</Address>
+    <PhoneNumber>0582599709</PhoneNumber>
   </Customer>
 </ArrayOfCustomer>

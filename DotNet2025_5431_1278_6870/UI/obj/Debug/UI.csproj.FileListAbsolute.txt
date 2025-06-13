@@ -1,0 +1,110 @@
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.exe
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.deps.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.runtimeconfig.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.CashRegister.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Customers.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Home.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.ManagerMenu.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.OrderProduct.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Product.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Sale.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.sourcelink.json
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\refint\UI.dll
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.pdb
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\ref\UI.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.exe
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.deps.json
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.runtimeconfig.json
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.pdb
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.CashRegister.resources
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Customers.resources
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Home.resources
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.ManagerMenu.resources
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.OrderProduct.resources
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Product.resources
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Sale.resources
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.sourcelink.json
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.Up2Date
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\refint\UI.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.pdb
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\ref\UI.dll
+D:\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Properties.Resources.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Properties.Resources.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.CustomerDetail.resources
+Z:\B\לוי ציפורה\C#\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Saleman.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.exe
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.deps.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.runtimeconfig.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.CashRegister.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.CustomerDetail.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Customers.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Home.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.ManagerMenu.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.OrderProduct.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Product.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Properties.Resources.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Sale.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Saleman.resources
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.sourcelink.json
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.Up2Date
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\refint\UI.dll
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.pdb
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\c#\ציפי\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\ref\UI.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.exe
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.deps.json
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.runtimeconfig.json
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\bin\UI.pdb
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.CashRegister.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.CustomerDetail.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Customers.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Home.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.ManagerMenu.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.OrderProduct.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Product.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Properties.Resources.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Sale.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.Saleman.resources
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.sourcelink.json
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.csproj.Up2Date
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\refint\UI.dll
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.pdb
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\c#\חדש!!!\Store-Management-System\DotNet2025_5431_1278_6870\UI\obj\Debug\ref\UI.dll

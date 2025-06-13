@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
+      "projectUniqueName": "D:\\c#\\חדש!!!\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
       "projectName": "DalFacade",
-      "projectPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
+      "projectPath": "D:\\c#\\חדש!!!\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
       "packagesPath": "C:\\Users\\Tzipi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tzipi\\Documents\\GitHub\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\obj\\",
+      "outputPath": "D:\\c#\\חדש!!!\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
